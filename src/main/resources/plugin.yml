@@ -1,0 +1,7 @@
+name: OldSwordBlocking
+version: ${project.version}
+main: com.oxipro.oldSwordBlocking.Main
+api-version: '1.21'
+authors: [ OXipro ]
+description: Restore 1.8 Sword Blocking with correct animation and damage reduction
+softdepend: [BedWars2023]
