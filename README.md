@@ -1,3 +1,8 @@
+This plugin is not supported anymore OldCombatMechanics implemented it in v2.3.0 so no need for this plugin
+
+(link to ocm github)[https://github.com/kernitus/BukkitOldCombatMechanics]
+
+
 # 🗡️ OldSwordBlocking
 
 **OldSwordBlocking** is a Minecraft **Paper 1.21.8+** plugin that restores the classic **1.8 sword blocking mechanics**, including a **smooth and accurate animation** that closely matches the original PvP experience.
