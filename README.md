@@ -1,6 +1,6 @@
 This plugin is not supported anymore OldCombatMechanics implemented it in v2.3.0 so no need for this plugin
 
-(link to ocm github)[https://github.com/kernitus/BukkitOldCombatMechanics]
+[link to ocm github](https://github.com/kernitus/BukkitOldCombatMechanics)
 
 
 # 🗡️ OldSwordBlocking
